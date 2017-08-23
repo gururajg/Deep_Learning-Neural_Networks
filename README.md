@@ -1,1 +1,2 @@
-# Deep_Learning-Neural_Networks
+1. Artificial Neural Networks
+2. Convolutional Neural Networks
